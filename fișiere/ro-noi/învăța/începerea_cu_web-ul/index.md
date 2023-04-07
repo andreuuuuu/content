@@ -1,3 +1,4 @@
+[!DOCTYPE html.txt](https://github.com/mdn/content/files/11180016/DOCTYPE.html.txt)
 ---
 title: Getting started with the web
 slug: Learn/Getting_started_with_the_web
